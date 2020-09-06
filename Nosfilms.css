@@ -1,0 +1,87 @@
+#Nosfilms{
+    
+
+    margin-top: -125px;
+    margin-left: -1300px;
+    font-size:30px;
+    
+}
+header{
+   background-color: #7f8c8d;
+}
+
+aside{
+	position: static;
+    width: 235px;
+    background-color: #706b64;
+    box-shadow: 10px 6px 5px #1c1a19;
+    border-radius: 1px;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 100px;
+    padding-left: -100px
+	}
+	 #Comedie{
+
+		text-decoration: none;
+color:white;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: #3498db;
+text-transform: none;
+	}
+	#Disney{
+		text-decoration: none;
+color:white;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: #3498db;
+text-transform: none;
+
+	}
+	#Anime{
+       text-decoration: none;
+color:white;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: #3498db;
+text-transform: none;
+}
+    #Action{
+    	text-decoration: none;
+color:white;
+border: solid 1px #2c3e50;
+border-radius:4px;
+padding:10px 15px;
+background-color: #3498db;
+text-transform: none;
+    }
+    #Comedie:hover{
+
+    background-color:#27ae60;
+}
+#Disney:hover{
+
+    background-color:#27ae60;
+ }
+#Anime:hover{
+
+    background-color:#27ae60;
+
+ }
+#Action:hover{
+
+    background-color:#27ae60;
+}
+ #Auteur{
+text-decoration: none;
+color:white;
+border: solid 1px #2c3e50;
+padding:10px 15px;
+background-color: #95a5a6;
+text-transform: none;
+ }
